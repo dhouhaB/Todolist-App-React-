@@ -1,0 +1,17 @@
+mche lel app 3ada l to do list todos zeda 
+gel id mohem bech react ye3ref ech yrender 
+hetheka 3lech 3malna 
+key={todo.id}
+fe suppresion 
+awel 7aja remarque 
+guel kenna nejmou na3mlou state fe tidolist mech fel app 
+ama ma3malnahach khater wa9tha menejmouch neste3mlouha fel form 
+l7asilou 3ad ste to do mel app lel todolist w men todo liste le todo 
+
+min 51 3adda akel element mapah fi variable todo w be3ed nedeha fe todo
+
+fel filter 
+mché 3mal state fel app w 3adaha lel form 
+
+w be3ed 3mal fonction setstatus handler 
+
